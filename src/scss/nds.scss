@@ -1,6 +1,6 @@
 @import url("https://fonts.googleapis.com/css?family=IBM+Plex+Sans");
 
-@import "../tokens/dist/_variables";
+@import "./node_modules/@nulogy/tokens/dist/_variables";
 
 @import "mixins";
 @import "defaults";
