@@ -1,3 +1,6 @@
 # Generated css
 nds.css
 error.css
+
+/dist
+/node_modules
