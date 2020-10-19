@@ -11,7 +11,7 @@ $colors: (
   white: $color-base-white,
   yellow: $color-base-yellow,
   green: $color-base-green,
-  red: $color-base-red
+  red: $color-base-red,
 );
 
 @mixin color-modifiers($attribute) {

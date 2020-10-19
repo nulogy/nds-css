@@ -5,7 +5,7 @@ $breakpoints: (
   sm: $size-breakpoint-small,
   md: $size-breakpoint-medium,
   lg: $size-breakpoint-large,
-  xl: $size-breakpoint-extra-large
+  xl: $size-breakpoint-extra-large,
 );
 
 // returns the apropriate media query for the given breakpoint name
