@@ -16,9 +16,9 @@
     "start": "yarn run storybook & yarn run watch",
     "lint:fix": "yarn prettier --write src/",
     "lint": "yarn prettier --check src/",
-    "publish": "yarn semantic-release"
+    "publish": "npx semantic-release"
   },
-  "repository": "https://github.com/nulogy/design-system",
+  "repository": "https://github.com/nulogy/nds-css",
   "author": "Nulogy <info@nulogy.com> (https://github.com/nulogy)",
   "license": "MIT",
   "devDependencies": {

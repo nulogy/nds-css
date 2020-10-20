@@ -17,7 +17,7 @@ $colors: (
   pink: $color-base-pink,
   turquoise: $color-base-turquoise,
   orange: $color-base-orange,
-  avocado: $color-base-avocado
+  avocado: $color-base-avocado,
 );
 
 @mixin color-modifiers($attribute) {
