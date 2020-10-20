@@ -30,7 +30,7 @@ storiesOf("Components/Alerts", module)
     () => `
   <div class="Alert Alert--warning">
     <p class="Alert__title">Important information</p>
-    <p class="Alert__message">Details about important information</p>
+    <p class="Alert__message">Details about important information.</p>
   </div>
   `
   )
