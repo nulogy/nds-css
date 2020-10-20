@@ -12,6 +12,12 @@ $colors: (
   yellow: $color-base-yellow,
   green: $color-base-green,
   red: $color-base-red,
+  aqua: $color-base-aqua,
+  purple: $color-base-purple,
+  pink: $color-base-pink,
+  turquoise: $color-base-turquoise,
+  orange: $color-base-orange,
+  avocado: $color-base-avocado
 );
 
 @mixin color-modifiers($attribute) {
