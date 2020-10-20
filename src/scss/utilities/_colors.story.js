@@ -17,7 +17,12 @@ storiesOf("Utilities/Color", module)
     <p class="nds-text--white">.nds-text--white</p>
     <p class="nds-text--yellow">.nds-text--yellow</p>
     <p class="nds-text--green">.nds-text--green</p>
-    <p class="nds-text--red">.nds-text--red</p>
+    <p class="nds-text--aqua">.nds-text--aqua</p>
+    <p class="nds-text--purple">.nds-text--purple</p>
+    <p class="nds-text--pink">.nds-text--pink</p>
+    <p class="nds-text--turquoise">.nds-text--turquoise</p>
+    <p class="nds-text--orange">.nds-text--orange</p>
+    <p class="nds-text--avocado">.nds-text--avocado</p>
   `
   )
   .add(
@@ -36,5 +41,11 @@ storiesOf("Utilities/Color", module)
     <p class="nds-padding--x2 nds-background--yellow">.nds-background--yellow</p>
     <p class="nds-padding--x2 nds-text--white nds-background--green">.nds-background--green</p>
     <p class="nds-padding--x2 nds-text--white nds-background--red">.nds-background--red</p>
+    <p class="nds-padding--x2 nds-text--white nds-background--aqua">.nds-background--aqua</p>
+    <p class="nds-padding--x2 nds-text--white nds-background--purple">.nds-background--purple</p>
+    <p class="nds-padding--x2 nds-text--white nds-background--pink">.nds-background--pink</p>
+    <p class="nds-padding--x2 nds-text--white nds-background--turquoise">.nds-background--turquoise</p>
+    <p class="nds-padding--x2 nds-text--white nds-background--orange">.nds-background--orange</p>
+    <p class="nds-padding--x2 nds-text--white nds-background--avocado">.nds-background--avocado</p>
 `
   );
